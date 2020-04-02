@@ -1,0 +1,23 @@
+FFFFFFFFFFFFFFFFFFFFFF                       tttt                                     JJJJJJJJJJJ                                                                 1111111                000000000
+F::::::::::::::::::::F                    ttt:::t                                     J:::::::::J                                                                1::::::1              00:::::::::00
+F::::::::::::::::::::F                    t:::::t                                     J:::::::::J                                                               1:::::::1            00:::::::::::::00
+FF::::::FFFFFFFFF::::F                    t:::::t                                     JJ:::::::JJ                                                               111:::::1           0:::::::000:::::::0
+  F:::::F       FFFFFFooooooooooo   ttttttt:::::ttttttt       ooooooooooo               J:::::Juuuuuu    uuuuuu     ggggggggg   ggggg     vvvvvvv           vvvvvvv1::::1           0::::::0   0::::::0
+  F:::::F           oo:::::::::::oo t:::::::::::::::::t     oo:::::::::::oo             J:::::Ju::::u    u::::u    g:::::::::ggg::::g      v:::::v         v:::::v 1::::1           0:::::0     0:::::0
+  F::::::FFFFFFFFFFo:::::::::::::::ot:::::::::::::::::t    o:::::::::::::::o            J:::::Ju::::u    u::::u   g:::::::::::::::::g       v:::::v       v:::::v  1::::1           0:::::0     0:::::0
+  F:::::::::::::::Fo:::::ooooo:::::otttttt:::::::tttttt    o:::::ooooo:::::o            J:::::ju::::u    u::::u  g::::::ggggg::::::gg        v:::::v     v:::::v   1::::l           0:::::0 000 0:::::0
+  F:::::::::::::::Fo::::o     o::::o      t:::::t          o::::o     o::::o            J:::::Ju::::u    u::::u  g:::::g     g:::::g          v:::::v   v:::::v    1::::l           0:::::0 000 0:::::0
+  F::::::FFFFFFFFFFo::::o     o::::o      t:::::t          o::::o     o::::oJJJJJJJ     J:::::Ju::::u    u::::u  g:::::g     g:::::g           v:::::v v:::::v     1::::l           0:::::0     0:::::0
+  F:::::F          o::::o     o::::o      t:::::t          o::::o     o::::oJ:::::J     J:::::Ju::::u    u::::u  g:::::g     g:::::g            v:::::v:::::v      1::::l           0:::::0     0:::::0
+  F:::::F          o::::o     o::::o      t:::::t    tttttto::::o     o::::oJ::::::J   J::::::Ju:::::uuuu:::::u  g::::::g    g:::::g             v:::::::::v       1::::l           0::::::0   0::::::0
+FF:::::::FF        o:::::ooooo:::::o      t::::::tttt:::::to:::::ooooo:::::oJ:::::::JJJ:::::::Ju:::::::::::::::uug:::::::ggggg:::::g              v:::::::v     111::::::111        0:::::::000:::::::0
+F::::::::FF        o:::::::::::::::o      tt::::::::::::::to:::::::::::::::o JJ:::::::::::::JJ  u:::::::::::::::u g::::::::::::::::g               v:::::v      1::::::::::1 ......  00:::::::::::::00
+F::::::::FF         oo:::::::::::oo         tt:::::::::::tt oo:::::::::::oo    JJ:::::::::JJ     uu::::::::uu:::u  gg::::::::::::::g                v:::v       1::::::::::1 .::::.    00:::::::::00
+FFFFFFFFFFF           ooooooooooo             ttttttttttt     ooooooooooo        JJJJJJJJJ         uuuuuuuu  uuuu    gggggggg::::::g                 vvv        111111111111 ......      000000000
+                                                                                                                             g:::::g
+                                                                                                                 gggggg      g:::::g
+                                                                                                                 g:::::gg   gg:::::g
+                                                                                                                  g::::::ggg:::::::g
+                                                                                                                   gg:::::::::::::g
+                                                                                                                     ggg::::::ggg
+                                                                                                                        gggggg
